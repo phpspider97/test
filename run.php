@@ -1,3 +1,3 @@
 <?
-echo "This is run";
+echo "This is run test";
 ?>
